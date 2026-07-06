@@ -1,1 +1,196 @@
-Ly8gU29jaWFsIENvcHkgTXVsdGlwbGllciDigJQgRWRpdG9yaWFsIE9TCi8vIE9uZSBtZXNzYWdlIOKGkiBwbGF0Zm9ybS1yZWFkeSBzb2NpYWwgY29weS4KLy8gQnJhbmQgdm9pY2UgaXMgdXNlci1jb25maWd1cmVkLCBuZXZlciBoYXJkY29kZWQuCgpjb25zdCBBUElfTU9ERUwgPSAnY2xhdWRlLXNvbm5ldC00LTYnOwoKLy8gQ2xpY2tpbmcgdGhlIHRvb2xiYXIgaWNvbiBvcGVucyB0aGUgc2lkZSBwYW5lbCBkaXJlY3RseSAobm8gcG9wdXApCmNocm9tZS5ydW50aW1lLm9uSW5zdGFsbGVkLmFkZExpc3RlbmVyKCgpID0+IHsKICBjaHJvbWUuc2lkZVBhbmVsLnNldFBhbmVsQmVoYXZpb3IoeyBvcGVuUGFuZWxPbkFjdGlvbkNsaWNrOiB0cnVlIH0pOwoKICBjaHJvbWUuY29udGV4dE1lbnVzLmNyZWF0ZSh7CiAgICBpZDogJ2dlbmVyYXRlU29jaWFsQ29weScsCiAgICB0aXRsZTogJ011bHRpcGx5IGludG8gc29jaWFsIGNvcHknLAogICAgY29udGV4dHM6IFsnc2VsZWN0aW9uJ10KICB9KTsKfSk7CgovLyBSaWdodC1jbGljayBvbiBzZWxlY3RlZCB0ZXh0IOKGkiBvcGVuIHBhbmVsIHByZS1maWxsZWQgd2l0aCB0aGUgc2VsZWN0aW9uCmNocm9tZS5jb250ZXh0TWVudXMub25DbGlja2VkLmFkZExpc3RlbmVyKChpbmZvLCB0YWIpID0+IHsKICBpZiAoaW5mby5tZW51SXRlbUlkID09PSAnZ2VuZXJhdGVTb2NpYWxDb3B5JykgewogICAgY2hyb21lLnNpZGVQYW5lbC5vcGVuKHsgd2luZG93SWQ6IHRhYi53aW5kb3dJZCB9KTsKICAgIGNocm9tZS5zdG9yYWdlLmxvY2FsLnNldCh7CiAgICAgIHNlbGVjdGVkVGV4dDogaW5mby5zZWxlY3Rpb25UZXh0LAogICAgICB0aW1lc3RhbXA6IERhdGUubm93KCkKICAgIH0pOwogIH0KfSk7CgovLyBLZXlib2FyZCBzaG9ydGN1dCDihpIgZ3JhYiBjdXJyZW50IHNlbGVjdGlvbiB2aWEgc2NyaXB0aW5nIChhY3RpdmVUYWIgaXMKLy8gZ3JhbnRlZCBieSB0aGUgY29tbWFuZCBnZXN0dXJlKSwgdGhlbiBvcGVuIHRoZSBwYW5lbApjaHJvbWUuY29tbWFuZHMub25Db21tYW5kLmFkZExpc3RlbmVyKGFzeW5jIChjb21tYW5kKSA9PiB7CiAgaWYgKGNvbW1hbmQgIT09ICdvcGVuLW11bHRpcGxpZXInKSByZXR1cm47CgogIGNvbnN0IFt0YWJdID0gYXdhaXQgY2hyb21lLnRhYnMucXVlcnkoeyBhY3RpdmU6IHRydWUsIGN1cnJlbnRXaW5kb3c6IHRydWUgfSk7CiAgaWYgKCF0YWIpIHJldHVybjsKCiAgY2hyb21lLnNpZGVQYW5lbC5vcGVuKHsgd2luZG93SWQ6IHRhYi53aW5kb3dJZCB9KTsKCiAgdHJ5IHsKICAgIGNvbnN0IFtyZXN1bHRdID0gYXdhaXQgY2hyb21lLnNjcmlwdGluZy5leGVjdXRlU2NyaXB0KHsKICAgICAgdGFyZ2V0OiB7IHRhYklkOiB0YWIuaWQgfSwKICAgICAgZnVuYzogKCkgPT4gd2luZG93LmdldFNlbGVjdGlvbigpLnRvU3RyaW5nKCkKICAgIH0pOwogICAgaWYgKHJlc3VsdD8ucmVzdWx0KSB7CiAgICAgIGNocm9tZS5zdG9yYWdlLmxvY2FsLnNldCh7CiAgICAgICAgc2VsZWN0ZWRUZXh0OiByZXN1bHQucmVzdWx0LAogICAgICAgIHRpbWVzdGFtcDogRGF0ZS5ub3coKQogICAgICB9KTsKICAgIH0KICB9IGNhdGNoIChlKSB7CiAgICAvLyBSZXN0cmljdGVkIHBhZ2VzIChjaHJvbWU6Ly8sIFdlYiBTdG9yZSkgZG9uJ3QgYWxsb3cgaW5qZWN0aW9uIOKAlCB0aGUKICAgIC8vIHBhbmVsIHN0aWxsIG9wZW5zLCBqdXN0IHdpdGhvdXQgcHJlZmlsbGVkIHRleHQuCiAgfQp9KTsKCi8vIEdlbmVyYXRpb24gcmVxdWVzdHMgZnJvbSB0aGUgc2lkZSBwYW5lbApjaHJvbWUucnVudGltZS5vbk1lc3NhZ2UuYWRkTGlzdGVuZXIoKHJlcXVlc3QsIHNlbmRlciwgc2VuZFJlc3BvbnNlKSA9PiB7CiAgaWYgKHJlcXVlc3QuYWN0aW9uID09PSAnZ2VuZXJhdGVTb2NpYWxDb3B5JykgewogICAgZ2VuZXJhdGVTb2NpYWxDb3B5KHJlcXVlc3QuZGF0YSkKICAgICAgLnRoZW4oc29jaWFsQ29weSA9PiBzZW5kUmVzcG9uc2UoeyBzdWNjZXNzOiB0cnVlLCBzb2NpYWxDb3B5IH0pKQogICAgICAuY2F0Y2goZXJyb3IgPT4gc2VuZFJlc3BvbnNlKHsgc3VjY2VzczogZmFsc2UsIGVycm9yOiBlcnJvci5tZXNzYWdlIH0pKTsKICAgIHJldHVybiB0cnVlOyAvLyBhc3luYyByZXNwb25zZQogIH0KfSk7CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyBHRU5FUkFUSU9OCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgpjb25zdCBNRVNTQUdFX1RZUEVfQ09OVEVYVCA9IHsKICBwcmljaW5nOiAnRm9jdXMgb24gdmFsdWUsIHNhdmluZ3MsIGFuZCBhZmZvcmRhYmlsaXR5JywKICBhbm5vdW5jZW1lbnQ6ICdMZWFkIHdpdGggd2hhdCBpcyBuZXcgYW5kIHdoeSBpdCBtYXR0ZXJzIG5vdycsCiAgb2ZmZXI6ICdDcmVhdGUgdXJnZW5jeSwgaGlnaGxpZ2h0IHRoZSBsaW1pdGVkLXRpbWUgbmF0dXJlLCBjbGVhciBDVEEnLAogIGZlYXR1cmU6ICdFeHBsYWluIHRoZSBiZW5lZml0IGNsZWFybHkgYW5kIHNob3cgd2hhdCBmcmljdGlvbiBpdCByZW1vdmVzJywKICBnZW5lcmFsOiAnR2VuZXJhbCBtYXJrZXRpbmcgbWVzc2FnZScKfTsKCmNvbnN0IFBMQVRGT1JNUyA9IFsKICB7CiAgICBuYW1lOiAnUGludGVyZXN0JywKICAgIGtleTogJ3BpbnRlcmVzdCcsCiAgICBpbnN0cnVjdGlvbnM6IGBDcmVhdGUgUGludGVyZXN0IHBpbiBjb3B5IChkZXNjcmlwdGlvbik6Ci0gMzAwLTUwMCBjaGFyYWN0ZXJzIGlkZWFsCi0gQmVuZWZpdC1mb2N1c2VkIGFuZCBhc3BpcmF0aW9uYWwKLSBJbmNsdWRlIHByYWN0aWNhbCBkZXRhaWxzIChwcmljZSwgY292ZXJhZ2UsIGZlYXR1cmVzKSB3aGVuIHByZXNlbnQgaW4gdGhlIG1lc3NhZ2UKLSBVc2UgZW1vamlzIHNwYXJpbmdseSAoMi0zIG1heCkKLSBBZGQgYSBjbGVhciBjYWxsLXRvLWFjdGlvbgotIEZvcm1hdDogVGl0bGUgKGhvb2spLCBkZXNjcmlwdGlvbiAoYmVuZWZpdHMpLCBDVEEKLSBUaGluazogIlNhdmUgdGhpcyBmb3IgbGF0ZXIiIGVuZXJneWAKICB9LAogIHsKICAgIG5hbWU6ICdJbnN0YWdyYW0gUG9zdCcsCiAgICBrZXk6ICdpbnN0YWdyYW1fcG9zdCcsCiAgICBpbnN0cnVjdGlvbnM6IGBDcmVhdGUgSW5zdGFncmFtIHBvc3QgY2FwdGlvbjoKLSAxMjUtMTUwIHdvcmRzIGlkZWFsCi0gU3RhcnQgd2l0aCBhIGhvb2sgKGVtb2ppICsgcXVlc3Rpb24gT1IgYm9sZCBzdGF0ZW1lbnQpCi0gQ29udmVyc2F0aW9uYWwgYW5kIHJlbGF0YWJsZQotIEluY2x1ZGUgMi0zIGxpbmUgYnJlYWtzIGZvciByZWFkYWJpbGl0eQotIFVzZSByZWxldmFudCBlbW9qaXMgKDMtNSB0b3RhbCkKLSBFbmQgd2l0aCBjbGVhciBDVEEKLSBBZGQgIkxpbmsgaW4gYmlvIiBvciAiVGFwIGxpbmsgaW4gYmlvIgotIFRoaW5rOiBTY3JvbGwtc3RvcHBpbmcsIHNoYXJlYWJsZWAKICB9LAogIHsKICAgIG5hbWU6ICdJbnN0YWdyYW0gU3RvcnknLAogICAga2V5OiAnaW5zdGFncmFtX3N0b3J5JywKICAgIGluc3RydWN0aW9uczogYENyZWF0ZSBJbnN0YWdyYW0gU3RvcnkgdGV4dDoKLSAxNS0zMCB3b3JkcyBNQVggKG11c3QgYmUgcmVhZGFibGUgcXVpY2tseSkKLSBTdGFydCB3aXRoIGF0dGVudGlvbi1ncmFiYmVyIChlbW9qaSArIHNob3J0IHBocmFzZSkKLSBPbmUga2V5IGJlbmVmaXQgb3Igb2ZmZXIKLSBDbGVhciBzd2lwZS11cCBDVEEKLSBVc2UgbGluZSBicmVha3MgYmV0d2VlbiBlbGVtZW50cwotIFRoaW5rOiAzIHNlY29uZHMgdG8gcmVhZCBhbmQgc3dpcGVgCiAgfSwKICB7CiAgICBuYW1lOiAnWCAoVHdpdHRlciknLAogICAga2V5OiAndHdpdHRlcicsCiAgICBpbnN0cnVjdGlvbnM6IGBDcmVhdGUgWCBwb3N0OgotIDIwMC0yODAgY2hhcmFjdGVycyAobGVhdmUgcm9vbSBmb3IgbGluaykKLSBIb29rIGZpcnN0IGxpbmUgKGJvbGQgc3RhdGVtZW50LCBxdWVzdGlvbiwgb3Igc3VycHJpc2luZyBmYWN0KQotIE9uZSBjbGVhciBiZW5lZml0IG9yIGluc2lnaHQKLSBDb252ZXJzYXRpb25hbCBhbmQgcHVuY2h5Ci0gTWluaW1hbCBlbW9qaXMgKDAtMikKLSBUaGluazogUXVvdGFibGUsIHJlcG9zdGFibGVgCiAgfQpdOwoKZnVuY3Rpb24gYnVpbGRCcmFuZEJsb2NrKGJyYW5kKSB7CiAgaWYgKCFicmFuZCkgcmV0dXJuICdCUkFORDogbm90IHNwZWNpZmllZCDigJQgaW5mZXIgYW4gYXBwcm9wcmlhdGUgdm9pY2UgZnJvbSB0aGUgY29yZSBtZXNzYWdlIGl0c2VsZi4nOwogIGNvbnN0IGxpbmVzID0gW107CiAgaWYgKGJyYW5kLm5hbWUpIGxpbmVzLnB1c2goYEJSQU5EOiAke2JyYW5kLm5hbWV9YCk7CiAgaWYgKGJyYW5kLnZvaWNlKSBsaW5lcy5wdXNoKGBWT0lDRTogJHticmFuZC52b2ljZX1gKTsKICBpZiAoYnJhbmQuYXVkaWVuY2UpIGxpbmVzLnB1c2goYEFVRElFTkNFOiAke2JyYW5kLmF1ZGllbmNlfWApOwogIGlmIChicmFuZC5iZW5lZml0cykgbGluZXMucHVzaChgS0VZIEJFTkVGSVRTOiAke2JyYW5kLmJlbmVmaXRzfWApOwogIHJldHVybiBsaW5lcy5sZW5ndGgKICAgID8gbGluZXMuam9pbignXG4nKQogICAgOiAnQlJBTkQ6IG5vdCBzcGVjaWZpZWQg4oCUIGluZmVyIGFuIGFwcHJvcHJpYXRlIHZvaWNlIGZyb20gdGhlIGNvcmUgbWVzc2FnZSBpdHNlbGYuJzsKfQoKYXN5bmMgZnVuY3Rpb24gZ2VuZXJhdGVTb2NpYWxDb3B5KGRhdGEpIHsKICBjb25zdCB7IGNvcmVNZXNzYWdlLCBtZXNzYWdlVHlwZSwgYXBpS2V5LCBicmFuZCB9ID0gZGF0YTsKCiAgaWYgKCFhcGlLZXkpIHsKICAgIHRocm93IG5ldyBFcnJvcignQVBJIGtleSBub3QgY29uZmlndXJlZC4nKTsKICB9CgogIGNvbnN0IGJyYW5kQmxvY2sgPSBidWlsZEJyYW5kQmxvY2soYnJhbmQpOwogIGNvbnN0IHR5cGVDb250ZXh0ID0gTUVTU0FHRV9UWVBFX0NPTlRFWFRbbWVzc2FnZVR5cGVdIHx8IE1FU1NBR0VfVFlQRV9DT05URVhULmdlbmVyYWw7CgogIC8vIEFsbCBmb3VyIHBsYXRmb3JtcyBnZW5lcmF0ZSBpbiBwYXJhbGxlbAogIGNvbnN0IHJlc3VsdHMgPSBhd2FpdCBQcm9taXNlLmFsbChQTEFURk9STVMubWFwKGFzeW5jIChwbGF0Zm9ybSkgPT4gewogICAgY29uc3QgcHJvbXB0ID0gYCR7YnJhbmRCbG9ja30KCkNPUkUgTUVTU0FHRToKJHtjb3JlTWVzc2FnZX0KCk1FU1NBR0UgVFlQRTogJHttZXNzYWdlVHlwZX0KQ09OVEVYVDogJHt0eXBlQ29udGV4dH0KClBMQVRGT1JNOiAke3BsYXRmb3JtLm5hbWV9CiR7cGxhdGZvcm0uaW5zdHJ1Y3Rpb25zfQoKV3JpdGUgJHtwbGF0Zm9ybS5uYW1lfSBjb3B5IGZvciB0aGlzIG1lc3NhZ2UuIFJldHVybiBPTkxZIHRoZSBjb3B5LCBubyBleHBsYW5hdGlvbnMgb3IgbWV0YS1jb21tZW50YXJ5LmA7CgogICAgLy8gRGlyZWN0IGNhbGwgZnJvbSB0aGUgc2VydmljZSB3b3JrZXIg4oCUIGhvc3RfcGVybWlzc2lvbnMgY292ZXJzIENPUlMuCiAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS5hbnRocm9waWMuY29tL3YxL21lc3NhZ2VzJywgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgJ3gtYXBpLWtleSc6IGFwaUtleSwKICAgICAgICAnYW50aHJvcGljLXZlcnNpb24nOiAnMjAyMy0wNi0wMScKICAgICAgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgIG1vZGVsOiBBUElfTU9ERUwsCiAgICAgICAgbWF4X3Rva2VuczogNTAwLAogICAgICAgIG1lc3NhZ2VzOiBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHByb21wdCB9XQogICAgICB9KQogICAgfSk7CgogICAgaWYgKCFyZXNwb25zZS5vaykgewogICAgICBjb25zdCBlcnJvciA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKS5jYXRjaCgoKSA9PiAoe30pKTsKICAgICAgdGhyb3cgbmV3IEVycm9yKGVycm9yLmVycm9yPy5tZXNzYWdlIHx8IGBBUEkgcmVxdWVzdCBmYWlsZWQgKCR7cmVzcG9uc2Uuc3RhdHVzfSlgKTsKICAgIH0KCiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICBjb25zdCB0ZXh0ID0gcmVzdWx0LmNvbnRlbnQKICAgICAgLmZpbHRlcihpdGVtID0+IGl0ZW0udHlwZSA9PT0gJ3RleHQnKQogICAgICAubWFwKGl0ZW0gPT4gaXRlbS50ZXh0KQogICAgICAuam9pbignXG4nKQogICAgICAudHJpbSgpOwoKICAgIHJldHVybiBbcGxhdGZvcm0ua2V5LCB0ZXh0XTsKICB9KSk7CgogIHJldHVybiBPYmplY3QuZnJvbUVudHJpZXMocmVzdWx0cyk7Cn0K
+// Social Copy Multiplier — Editorial OS
+// One message → platform-ready social copy.
+// Brand voice is user-configured, never hardcoded.
+
+const API_MODEL = 'claude-sonnet-4-6';
+
+// Clicking the toolbar icon opens the side panel directly (no popup)
+chrome.runtime.onInstalled.addListener(() => {
+  chrome.sidePanel.setPanelBehavior({ openPanelOnActionClick: true });
+
+  chrome.contextMenus.create({
+    id: 'generateSocialCopy',
+    title: 'Multiply into social copy',
+    contexts: ['selection']
+  });
+});
+
+// Right-click on selected text → open panel pre-filled with the selection
+chrome.contextMenus.onClicked.addListener((info, tab) => {
+  if (info.menuItemId === 'generateSocialCopy') {
+    chrome.sidePanel.open({ windowId: tab.windowId });
+    chrome.storage.local.set({
+      selectedText: info.selectionText,
+      timestamp: Date.now()
+    });
+  }
+});
+
+// Keyboard shortcut → grab current selection via scripting (activeTab is
+// granted by the command gesture), then open the panel
+chrome.commands.onCommand.addListener(async (command) => {
+  if (command !== 'open-multiplier') return;
+
+  const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+  if (!tab) return;
+
+  chrome.sidePanel.open({ windowId: tab.windowId });
+
+  try {
+    const [result] = await chrome.scripting.executeScript({
+      target: { tabId: tab.id },
+      func: () => window.getSelection().toString()
+    });
+    if (result?.result) {
+      chrome.storage.local.set({
+        selectedText: result.result,
+        timestamp: Date.now()
+      });
+    }
+  } catch (e) {
+    // Restricted pages (chrome://, Web Store) don't allow injection — the
+    // panel still opens, just without prefilled text.
+  }
+});
+
+// Generation requests from the side panel
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === 'generateSocialCopy') {
+    generateSocialCopy(request.data)
+      .then(socialCopy => sendResponse({ success: true, socialCopy }))
+      .catch(error => sendResponse({ success: false, error: error.message }));
+    return true; // async response
+  }
+});
+
+// ============================================
+// GENERATION
+// ============================================
+
+const MESSAGE_TYPE_CONTEXT = {
+  pricing: 'Focus on value, savings, and affordability',
+  announcement: 'Lead with what is new and why it matters now',
+  offer: 'Create urgency, highlight the limited-time nature, clear CTA',
+  feature: 'Explain the benefit clearly and show what friction it removes',
+  general: 'General marketing message'
+};
+
+const PLATFORMS = [
+  {
+    name: 'Pinterest',
+    key: 'pinterest',
+    instructions: `Create Pinterest pin copy (description):
+- 300-500 characters ideal
+- Benefit-focused and aspirational
+- Include practical details (price, coverage, features) when present in the message
+- Use emojis sparingly (2-3 max)
+- Add a clear call-to-action
+- Format: Title (hook), description (benefits), CTA
+- Think: "Save this for later" energy`
+  },
+  {
+    name: 'Instagram Post',
+    key: 'instagram_post',
+    instructions: `Create Instagram post caption:
+- 125-150 words ideal
+- Start with a hook (emoji + question OR bold statement)
+- Conversational and relatable
+- Include 2-3 line breaks for readability
+- Use relevant emojis (3-5 total)
+- End with clear CTA
+- Add "Link in bio" or "Tap link in bio"
+- Think: Scroll-stopping, shareable`
+  },
+  {
+    name: 'Instagram Story',
+    key: 'instagram_story',
+    instructions: `Create Instagram Story text:
+- 15-30 words MAX (must be readable quickly)
+- Start with attention-grabber (emoji + short phrase)
+- One key benefit or offer
+- Clear swipe-up CTA
+- Use line breaks between elements
+- Think: 3 seconds to read and swipe`
+  },
+  {
+    name: 'X (Twitter)',
+    key: 'twitter',
+    instructions: `Create X post:
+- 200-280 characters (leave room for link)
+- Hook first line (bold statement, question, or surprising fact)
+- One clear benefit or insight
+- Conversational and punchy
+- Minimal emojis (0-2)
+- Think: Quotable, repostable`
+  }
+];
+
+function buildBrandBlock(brand) {
+  if (!brand) return 'BRAND: not specified — infer an appropriate voice from the core message itself.';
+  const lines = [];
+  if (brand.name) lines.push(`BRAND: ${brand.name}`);
+  if (brand.voice) lines.push(`VOICE: ${brand.voice}`);
+  if (brand.audience) lines.push(`AUDIENCE: ${brand.audience}`);
+  if (brand.benefits) lines.push(`KEY BENEFITS: ${brand.benefits}`);
+  return lines.length
+    ? lines.join('\n')
+    : 'BRAND: not specified — infer an appropriate voice from the core message itself.';
+}
+
+async function generateSocialCopy(data) {
+  const { coreMessage, messageType, apiKey, brand } = data;
+
+  if (!apiKey) {
+    throw new Error('API key not configured.');
+  }
+
+  const brandBlock = buildBrandBlock(brand);
+  const typeContext = MESSAGE_TYPE_CONTEXT[messageType] || MESSAGE_TYPE_CONTEXT.general;
+
+  // All four platforms generate in parallel
+  const results = await Promise.all(PLATFORMS.map(async (platform) => {
+    const prompt = `${brandBlock}
+
+CORE MESSAGE:
+${coreMessage}
+
+MESSAGE TYPE: ${messageType}
+CONTEXT: ${typeContext}
+
+PLATFORM: ${platform.name}
+${platform.instructions}
+
+Write ${platform.name} copy for this message. Return ONLY the copy, no explanations or meta-commentary.`;
+
+    // Direct call from the service worker — host_permissions covers CORS.
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01'
+      },
+      body: JSON.stringify({
+        model: API_MODEL,
+        max_tokens: 500,
+        messages: [{ role: 'user', content: prompt }]
+      })
+    });
+
+    if (!response.ok) {
+      const error = await response.json().catch(() => ({}));
+      throw new Error(error.error?.message || `API request failed (${response.status})`);
+    }
+
+    const result = await response.json();
+    const text = result.content
+      .filter(item => item.type === 'text')
+      .map(item => item.text)
+      .join('\n')
+      .trim();
+
+    return [platform.key, text];
+  }));
+
+  return Object.fromEntries(results);
+}
