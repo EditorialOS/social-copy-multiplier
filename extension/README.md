@@ -1,1 +1,65 @@
-IyBTb2NpYWwgQ29weSBNdWx0aXBsaWVyIOKAlCBFZGl0b3JpYWwgT1MKCj4gT25lIG1lc3NhZ2Ug4oaSIGFsbCBwbGF0Zm9ybXMuCgpBIENocm9tZSBzaWRlLXBhbmVsIGV4dGVuc2lvbiB0aGF0IHR1cm5zIG9uZSBjb3JlIG1lc3NhZ2UgaW50byBwbGF0Zm9ybS1vcHRpbWl6ZWQgc29jaWFsIGNvcHkgZm9yIFBpbnRlcmVzdCwgSW5zdGFncmFtIFBvc3RzLCBJbnN0YWdyYW0gU3RvcmllcywgYW5kIFgg4oCUIGVhY2ggZ2VuZXJhdGVkIGluIHBhcmFsbGVsIGFnYWluc3QgdGhhdCBwbGF0Zm9ybSdzIHJlYWwgY29uc3RyYWludHMgKGxlbmd0aCwgZm9ybWF0LCBob29rIHN0eWxlLCBDVEEgY29udmVudGlvbnMpLgoKKipZb3VyIGJyYW5kLCB5b3VyIGtleS4qKiBTZXQgeW91ciBicmFuZCB2b2ljZSBvbmNlIGluIFNldHRpbmdzIOKAlCBuYW1lLCB2b2ljZSwgYXVkaWVuY2UsIGtleSBiZW5lZml0cyDigJQgYW5kIGV2ZXJ5IGdlbmVyYXRpb24gdXNlcyBpdC4gTm8gYnJhbmQgY29udGV4dCBpcyBoYXJkY29kZWQuIFRoZSBleHRlbnNpb24gY2FsbHMgdGhlIEFudGhyb3BpYyBBUEkgZGlyZWN0bHkgd2l0aCB5b3VyIG93biBrZXksIHN0b3JlZCBsb2NhbGx5IG9uIHlvdXIgZGV2aWNlLgoKIyMgRmVhdHVyZXMKCi0gKipGb3VyIHBsYXRmb3JtcyBpbiBwYXJhbGxlbCoqIOKAlCBQaW50ZXJlc3QgcGluIGNvcHksIEluc3RhZ3JhbSBjYXB0aW9uLCBTdG9yeSB0ZXh0LCBhbmQgWCBwb3N0IGdlbmVyYXRlZCBzaW11bHRhbmVvdXNseSwgZWFjaCBhZ2FpbnN0IHBsYXRmb3JtLXNwZWNpZmljIGNvbnN0cmFpbnRzCi0gKipDb25maWd1cmFibGUgYnJhbmQgdm9pY2UqKiDigJQgc2V0IGl0IG9uY2UgaW4gU2V0dGluZ3M7IGFwcGxpZXMgdG8gZXZlcnkgZ2VuZXJhdGlvbi4gTGVhdmUgaXQgYmxhbmsgYW5kIHRoZSB0b29sIGluZmVycyBhbiBhcHByb3ByaWF0ZSB2b2ljZSBmcm9tIHlvdXIgbWVzc2FnZS4KLSAqKk1lc3NhZ2UgdHlwZXMqKiDigJQgUHJpY2luZy9PZmZlciwgQW5ub3VuY2VtZW50LCBQcm9tb3Rpb24sIEZlYXR1cmUsIG9yIEdlbmVyYWwsIGVhY2ggc3RlZXJpbmcgdGhlIGZyYW1pbmcKLSAqKlRocmVlIGVudHJ5IHBvaW50cyoqIOKAlCBjbGljayB0aGUgdG9vbGJhciBpY29uLCByaWdodC1jbGljayBhbnkgc2VsZWN0ZWQgdGV4dCAoIk11bHRpcGx5IGludG8gc29jaWFsIGNvcHkiKSwgb3IgcHJlc3MgQ3RybCtTaGlmdCtZICjijJjih6dZIG9uIE1hYykgdG8gb3BlbiB0aGUgcGFuZWwgd2l0aCB5b3VyIGN1cnJlbnQgc2VsZWN0aW9uIHByZS1maWxsZWQKLSAqKk9uZS1jbGljayBjb3B5KiogcGVyIHBsYXRmb3JtLCB3aXRoIGNoYXJhY3RlciBjb3VudHMKCiMjIEluc3RhbGxhdGlvbgoKKipGcm9tIHRoZSBDaHJvbWUgV2ViIFN0b3JlOioqIChsaW5rIG9uY2UgcHVibGlzaGVkKQoKKipEZXZlbG9wZXIgbW9kZToqKgoxLiBEb3dubG9hZCBvciBjbG9uZSB0aGlzIGZvbGRlcgoyLiBPcGVuIGBjaHJvbWU6Ly9leHRlbnNpb25zL2AKMy4gRW5hYmxlIERldmVsb3BlciBtb2RlICh0b3AgcmlnaHQpCjQuIENsaWNrICJMb2FkIHVucGFja2VkIiBhbmQgc2VsZWN0IHRoaXMgZm9sZGVyCgpPcGVuIHRoZSBwYW5lbCwgYWRkIHlvdXIgQW50aHJvcGljIEFQSSBrZXkgYW5kIChvcHRpb25hbGx5KSB5b3VyIGJyYW5kIHZvaWNlIGluIFNldHRpbmdzLCBhbmQgZ2VuZXJhdGUuCgojIyBBcmNoaXRlY3R1cmUgbm90ZXMKCk1WMyB3aXRoIGEgc2VydmljZS13b3JrZXIgYmFja2VuZCBhbmQgYSBzaWRlLXBhbmVsIFVJLiBObyBjb250ZW50IHNjcmlwdHM6IHRoZSBrZXlib2FyZCBzaG9ydGN1dCBpcyByZWdpc3RlcmVkIHRocm91Z2ggdGhlIGBjb21tYW5kc2AgQVBJLCBhbmQgdGV4dCBzZWxlY3Rpb24gaXMgcmVhZCB3aXRoIGEgb25lLXNob3QgYGNocm9tZS5zY3JpcHRpbmcuZXhlY3V0ZVNjcmlwdGAgdW5kZXIgYGFjdGl2ZVRhYmAg4oCUIGdyYW50ZWQgb25seSBieSB5b3VyIGV4cGxpY2l0IGdlc3R1cmUsIG9uIHRoYXQgdGFiLCBhdCB0aGF0IG1vbWVudC4gQVBJIGNhbGxzIGdvIGRpcmVjdGx5IGZyb20gdGhlIHNlcnZpY2Ugd29ya2VyIHRvIGBhcGkuYW50aHJvcGljLmNvbWAgKGRlY2xhcmVkIGhvc3QgcGVybWlzc2lvbik7IGFsbCBmb3VyIHBsYXRmb3JtIGdlbmVyYXRpb25zIHJ1biB0aHJvdWdoIGBQcm9taXNlLmFsbGAuCgojIyBQcml2YWN5CgpZb3VyIEFQSSBrZXksIGJyYW5kIHNldHRpbmdzLCBhbmQgbWVzc2FnZXMgYXJlIHN0b3JlZCBsb2NhbGx5IGFuZCBzZW50IG9ubHkgdG8gdGhlIEFudGhyb3BpYyBBUEkuIFNlZSBbUFJJVkFDWS5tZF0oLi4vUFJJVkFDWS5tZCkuCgotLS0KCiMjIENocm9tZSBXZWIgU3RvcmUgbGlzdGluZyBjb3B5CgoqKk5hbWU6KiogU29jaWFsIENvcHkgTXVsdGlwbGllciAtIEVkaXRvcmlhbCBPUwoKKipTaG9ydCBkZXNjcmlwdGlvbiAo4omkMTMyIGNoYXJzKToqKgpUdXJuIG9uZSBjb3JlIG1lc3NhZ2UgaW50byBwbGF0Zm9ybS1yZWFkeSBjb3B5IGZvciBQaW50ZXJlc3QsIEluc3RhZ3JhbSwgYW5kIFgg4oCUIGluIHlvdXIgYnJhbmQgdm9pY2UsIHdpdGggeW91ciBvd24gQVBJIGtleS4KCioqRGV0YWlsZWQgZGVzY3JpcHRpb246KioKClN0b3AgcmVmb3JtYXR0aW5nIHRoZSBzYW1lIG1lc3NhZ2UgZm91ciB0aW1lcy4KClNvY2lhbCBDb3B5IE11bHRpcGxpZXIgdGFrZXMgb25lIGNvcmUgbWVzc2FnZSBhbmQgZ2VuZXJhdGVzIHBsYXRmb3JtLW9wdGltaXplZCBjb3B5IGZvciBQaW50ZXJlc3QsIEluc3RhZ3JhbSBQb3N0cywgSW5zdGFncmFtIFN0b3JpZXMsIGFuZCBYIOKAlCBzaW11bHRhbmVvdXNseSwgZWFjaCByZXNwZWN0aW5nIHRoYXQgcGxhdGZvcm0ncyByZWFsIGNvbnN0cmFpbnRzOiBjaGFyYWN0ZXIgbGltaXRzLCBob29rIGNvbnZlbnRpb25zLCBlbW9qaSBub3JtcywgQ1RBIHN0eWxlLgoKWU9VUiBCUkFORCBWT0lDRQpTZXQgeW91ciBicmFuZCBuYW1lLCB2b2ljZSwgYXVkaWVuY2UsIGFuZCBrZXkgYmVuZWZpdHMgb25jZSBpbiBTZXR0aW5ncy4gRXZlcnkgZ2VuZXJhdGlvbiB1c2VzIHRoZW0uIE5vdGhpbmcgaXMgaGFyZGNvZGVkIOKAlCB0aGlzIHdvcmtzIGZvciBhbnkgYnJhbmQsIHByb2R1Y3QsIG9yIHByb2plY3QuCgpUSFJFRSBXQVlTIElOCuKAoiBDbGljayB0aGUgdG9vbGJhciBpY29uIHRvIG9wZW4gdGhlIHNpZGUgcGFuZWwK4oCiIFNlbGVjdCB0ZXh0IG9uIGFueSBwYWdlIOKGkiByaWdodC1jbGljayDihpIgIk11bHRpcGx5IGludG8gc29jaWFsIGNvcHkiCuKAoiBQcmVzcyBDdHJsK1NoaWZ0K1kgKOKMmOKHp1kgb24gTWFjKSB0byBvcGVuIHdpdGggeW91ciBzZWxlY3Rpb24gcHJlLWZpbGxlZAoKQlJJTkcgWU9VUiBPV04gS0VZClJlcXVpcmVzIGFuIEFudGhyb3BpYyBBUEkga2V5IChjb25zb2xlLmFudGhyb3BpYy5jb20pLiBZb3VyIGtleSBhbmQgc2V0dGluZ3MgbGl2ZSBpbiBsb2NhbCBzdG9yYWdlIG9uIHlvdXIgZGV2aWNlIGFuZCBhcmUgc2VudCBvbmx5IHRvIHRoZSBBbnRocm9waWMgQVBJIOKAlCBubyBtaWRkbGVtYW4gc2VydmVycywgbm8gYWNjb3VudHMsIG5vIGFuYWx5dGljcywgbm8gZGF0YSBjb2xsZWN0aW9uLgoKUGFydCBvZiBFZGl0b3JpYWwgT1M6IHN5c3RlbXMgZm9yIGNvbnRlbnQgYW5kIGNvbW11bmljYXRpb25zIHRlYW1zLgoKKipDYXRlZ29yeToqKiBQcm9kdWN0aXZpdHkK
+# Social Copy Multiplier — Editorial OS
+
+> One message → all platforms.
+
+A Chrome side-panel extension that turns one core message into platform-optimized social copy for Pinterest, Instagram Posts, Instagram Stories, and X — each generated in parallel against that platform's real constraints (length, format, hook style, CTA conventions).
+
+**Your brand, your key.** Set your brand voice once in Settings — name, voice, audience, key benefits — and every generation uses it. No brand context is hardcoded. The extension calls the Anthropic API directly with your own key, stored locally on your device.
+
+## Features
+
+- **Four platforms in parallel** — Pinterest pin copy, Instagram caption, Story text, and X post generated simultaneously, each against platform-specific constraints
+- **Configurable brand voice** — set it once in Settings; applies to every generation. Leave it blank and the tool infers an appropriate voice from your message.
+- **Message types** — Pricing/Offer, Announcement, Promotion, Feature, or General, each steering the framing
+- **Three entry points** — click the toolbar icon, right-click any selected text ("Multiply into social copy"), or press Ctrl+Shift+Y (⌘⇧Y on Mac) to open the panel with your current selection pre-filled
+- **One-click copy** per platform, with character counts
+
+## Installation
+
+**From the Chrome Web Store:** (link once published)
+
+**Developer mode:**
+1. Download or clone this folder
+2. Open `chrome://extensions/`
+3. Enable Developer mode (top right)
+4. Click "Load unpacked" and select this folder
+
+Open the panel, add your Anthropic API key and (optionally) your brand voice in Settings, and generate.
+
+## Architecture notes
+
+MV3 with a service-worker backend and a side-panel UI. No content scripts: the keyboard shortcut is registered through the `commands` API, and text selection is read with a one-shot `chrome.scripting.executeScript` under `activeTab` — granted only by your explicit gesture, on that tab, at that moment. API calls go directly from the service worker to `api.anthropic.com` (declared host permission); all four platform generations run through `Promise.all`.
+
+## Privacy
+
+Your API key, brand settings, and messages are stored locally and sent only to the Anthropic API. See [PRIVACY.md](../PRIVACY.md).
+
+---
+
+## Chrome Web Store listing copy
+
+**Name:** Social Copy Multiplier - Editorial OS
+
+**Short description (≤132 chars):**
+Turn one core message into platform-ready copy for Pinterest, Instagram, and X — in your brand voice, with your own API key.
+
+**Detailed description:**
+
+Stop reformatting the same message four times.
+
+Social Copy Multiplier takes one core message and generates platform-optimized copy for Pinterest, Instagram Posts, Instagram Stories, and X — simultaneously, each respecting that platform's real constraints: character limits, hook conventions, emoji norms, CTA style.
+
+YOUR BRAND VOICE
+Set your brand name, voice, audience, and key benefits once in Settings. Every generation uses them. Nothing is hardcoded — this works for any brand, product, or project.
+
+THREE WAYS IN
+• Click the toolbar icon to open the side panel
+• Select text on any page → right-click → "Multiply into social copy"
+• Press Ctrl+Shift+Y (⌘⇧Y on Mac) to open with your selection pre-filled
+
+BRING YOUR OWN KEY
+Requires an Anthropic API key (console.anthropic.com). Your key and settings live in local storage on your device and are sent only to the Anthropic API — no middleman servers, no accounts, no analytics, no data collection.
+
+Part of Editorial OS: systems for content and communications teams.
+
+**Category:** Productivity
