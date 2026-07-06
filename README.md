@@ -1,1 +1,72 @@
-IyBTb2NpYWwgQ29weSBNdWx0aXBsaWVyCgohW3ZlcnNpb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvdmVyc2lvbi0xLjAuMC1ibHVlKQohW3N0YXR1c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9zdGF0dXMtcG9ydGZvbGlvLS1yZWFkeS1icmlnaHRncmVlbikKIVt0eXBlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3R5cGUtQUklMjBza2lsbC04QTJCRTIpCiFbZGVzaWduIHRvb2xdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZGVzaWduLWJyYW5kJTIwc3lzdGVtLWZmNjliNCkKIVtwbGF0Zm9ybV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9wbGF0Zm9ybS1DaHJvbWUlMjBNVjMtb3JhbmdlKQohW2xpY2Vuc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvbGljZW5zZS1NSVQtbGlnaHRncmV5KQoKPiAqKk9uZSBtZXNzYWdlLCBwbGF0Zm9ybS1wZXJmZWN0IGV2ZXJ5d2hlcmUuKioKClNvY2lhbCBDb3B5IE11bHRpcGxpZXIgdGFrZXMgb25lIGNvcmUgbWVzc2FnZSBhbmQsIGluIGEgc2luZ2xlIHBhc3MsIGdlbmVyYXRlcyBwbGF0Zm9ybS1uYXRpdmUgdmFyaWFudHMgZm9yIGV2ZXJ5IGNoYW5uZWwgYXQgb25jZSDigJQgZWFjaCBvYmV5aW5nIHRoYXQgcGxhdGZvcm0ncyBjb25zdHJhaW50cyB3aGlsZSBzdGF5aW5nIGluc2lkZSBhIGJyYW5kLXZvaWNlIGNvbmZpZ3VyYXRpb24geW91IGNvbnRyb2wuIFRoZSBicmFuZCB2b2ljZSBpcyBkZWZpbmVkIG9uY2U7IHRoZSBwbGF0Zm9ybSBydWxlcyBhcmUgZW5jb2RlZCBhcyBhIHJlZmVyZW5jZSBmcmFtZXdvcms7IGFueW9uZSBjYW4gcHJvZHVjZSBhIGZ1bGwsIG9uLWJyYW5kIHNvY2lhbCBzZXQgZnJvbSBhIHNpZGUgcGFuZWwgaW4gc2Vjb25kcy4KCioqVGhlIGRlc2lnbi9icmFuZCBwcm9ibGVtIGl0IHNvbHZlczoqKiBFdmVyeSBzb2NpYWwgcGxhdGZvcm0gaGFzIGl0cyBvd24gZGlhbGVjdCDigJQgbGVuZ3RoLCB0b25lLCBoYXNodGFnIGV0aXF1ZXR0ZSwgZW1vamkgZGVuc2l0eSwgQ1RBIHN0eWxlLiBUZWFtcyBlaXRoZXIgcG9zdCB0aGUgc2FtZSBjb3B5IGV2ZXJ5d2hlcmUgKGFuZCBpdCByZWFkcyB3cm9uZyBvbiB0aHJlZSBvZiBmb3VyIHBsYXRmb3Jtcykgb3IgaGFuZC10dW5lIGVhY2ggb25lIChhbmQgdGhlIGJyYW5kIHZvaWNlIGRyaWZ0cywgYW5kIGl0IHRha2VzIGFuIGhvdXIpLiBDb25zaXN0ZW5jeSBhbmQgcGxhdGZvcm0tbmF0aXZlbmVzcyBmZWVsIGxpa2UgYSB0cmFkZW9mZi4KCi0tLQoKIyMgMzAtc2Vjb25kIHRvdXIKCklmIHlvdSBvbmx5IGhhdmUgaGFsZiBhIG1pbnV0ZSwgbG9vayBoZXJlOgoKLSAqKltgYWktc2tpbGxzL3BsYXRmb3JtLWFkYXB0YXRpb24tc2tpbGwubWRgXShhaS1za2lsbHMvcGxhdGZvcm0tYWRhcHRhdGlvbi1za2lsbC5tZCkqKiDigJQgdGhlIEFJIHNraWxsIGl0c2VsZjogYSBzdHJ1Y3R1cmVkLCBtYXJrZG93biBpbnN0cnVjdGlvbiBzZXQgdGhhdCB0dXJucyBicmFuZCBydWxlcyBpbnRvIHJlbGlhYmx5IG9uLWJyYW5kIG91dHB1dC4gKlRoaXMgaXMgdGhlIGhlYXJ0IG9mIHRoZSBwcm9qZWN0LioKLSAqKltgZG9jcy9kZXNpZ24tc3lzdGVtLm1kYF0oZG9jcy9kZXNpZ24tc3lzdGVtLm1kKSoqIOKAlCB0aGUgYnJhbmQgc3lzdGVtIGFzIHNvdXJjZSBvZiB0cnV0aDogdm9pY2UsIHRvbmUsIHR5cGUvY29sb3IvbGF5b3V0IGFuZCBjb250ZW50IHJ1bGVzIHRoZSB0b29sIGVuZm9yY2VzLgotICoqW2Bkb2NzL1BSRC5tZGBdKGRvY3MvUFJELm1kKSoqIOKAlCB0aGUgcHJvZHVjdCB0aGlua2luZzogcHJvYmxlbSwgdXNlcnMsIGdvYWxzLCBhbmQgYWRvcHRpb24gbWV0cmljcy4KLSAqKltgZG9jcy9hcmNoaXRlY3R1cmUubWRgXShkb2NzL2FyY2hpdGVjdHVyZS5tZCkqKiDigJQgaG93IGl0IHdvcmtzOiBVSSBzdXJmYWNlLCB0aGUgQUkvbW9kZWwgbGF5ZXIsIGFuZCB0aGUgcHJvbXB0IGxheWVyIHRoYXQgYmluZHMgdGhlbS4KLSAqKltgZXh0ZW5zaW9uL2BdKGV4dGVuc2lvbi8pICsgZGVtbyoqIOKAlCB0aGUgd29ya2luZyBDaHJvbWUgc2lkZS1wYW5lbCBleHRlbnNpb24gKE1hbmlmZXN0IFYzKS4gKihEZW1vIEdJRjogc2VlIGBkb2NzL2RlbW8uZ2lmYCBvbmNlIGFkZGVkLikqCgotLS0KCiMjIFdobyBpdCdzIGZvcgoKQnJhbmQgJiBkZXNpZ24gb3duZXJzICh3aG8gc2V0IHRoZSB2b2ljZSBhbmQgcGxhdGZvcm0gcnVsZXMpIGFuZCBub24tZGVzaWduZXJzIOKAlCBzb2NpYWwgbWFuYWdlcnMsIGZvdW5kZXJzLCBtYXJrZXRlcnMg4oCUIHdobyBuZWVkIGNoYW5uZWwtbmF0aXZlIGNvcHkgZmFzdCB3aXRob3V0IG9mZi1icmFuZCBkcmlmdC4KCiMjIEhvdyBpdCB3b3JrcyAoaW4gb25lIHBhcmFncmFwaCkKClNvY2lhbCBDb3B5IE11bHRpcGxpZXIgaXMgYSBDaHJvbWUgc2lkZS1wYW5lbCBleHRlbnNpb24gKE1hbmlmZXN0IFYzKS4gVGhlIGJyYW5kIG93bmVyIGRlZmluZXMgdGhlIHZvaWNlIGFuZCBydWxlcyAqKm9uY2UqKiBhcyBhIG1hcmtkb3duIHJlZmVyZW5jZSBmcmFtZXdvcmsgKHNlZSBbYGRvY3MvZGVzaWduLXN5c3RlbS5tZGBdKGRvY3MvZGVzaWduLXN5c3RlbS5tZCkgYW5kIFtgYWktc2tpbGxzL3BsYXRmb3JtLWFkYXB0YXRpb24tc2tpbGwubWRgXShhaS1za2lsbHMvcGxhdGZvcm0tYWRhcHRhdGlvbi1za2lsbC5tZCkpLiBBdCBydW50aW1lLCB0aGUgdG9vbCBjb21wb3NlcyB0aG9zZSBydWxlcyB3aXRoIHRoZSB1c2VyJ3MgaW5wdXQgaW50byBhIHN0cnVjdHVyZWQgcHJvbXB0IGFuZCBzZW5kcyBpdCB0byBBbnRocm9waWMgQ2xhdWRlIChicmluZy15b3VyLW93biBBUEkga2V5KSwgYWxsIHBsYXRmb3JtcyBnZW5lcmF0ZWQgaW4gcGFyYWxsZWwgdmlhIFByb21pc2UuYWxsLiBUaGUgcmVzdWx0IGlzIG9uLWJyYW5kIG91dHB1dCB0aGF0IGEgbm9uLWRlc2lnbmVyIGNhbiBwcm9kdWNlIHdpdGhvdXQgZXZlciBzZWVpbmcgdGhlIHVuZGVybHlpbmcgc3lzdGVtLgoKLSAqKklucHV0OioqIE9uZSBjb3JlIG1lc3NhZ2UgYW5kIGEgYnJhbmQtdm9pY2UgY29uZmlndXJhdGlvbiAodG9uZSwgYmFubmVkIHdvcmRzLCBlbW9qaSBwb2xpY3ksIGhhc2h0YWcgc3RyYXRlZ3kpLgotICoqT3V0cHV0OioqIFNpbXVsdGFuZW91cyBwbGF0Zm9ybS1uYXRpdmUgdmFyaWFudHMgKFBpbnRlcmVzdCwgSW5zdGFncmFtLCBYL1R3aXR0ZXIsIExpbmtlZEluKSBnZW5lcmF0ZWQgaW4gcGFyYWxsZWwsIGVhY2ggd2l0aGluIHBsYXRmb3JtIGNvbnN0cmFpbnRzIGFuZCBicmFuZCB2b2ljZS4KCiMjIEluc3RhbGwgJiB1c2UKCjEuIENsb25lIHRoaXMgcmVwby4KMi4gSW4gQ2hyb21lLCBvcGVuIGBjaHJvbWU6Ly9leHRlbnNpb25zYCwgZW5hYmxlICoqRGV2ZWxvcGVyIG1vZGUqKiwgYW5kIGNsaWNrICoqTG9hZCB1bnBhY2tlZCoqLgozLiBTZWxlY3QgdGhlIFtgZXh0ZW5zaW9uL2BdKGV4dGVuc2lvbi8pIGZvbGRlci4KNC4gT3BlbiB0aGUgZXh0ZW5zaW9uLCBhZGQgeW91ciBBbnRocm9waWMgQVBJIGtleSAoc3RvcmVkIGxvY2FsbHksIG5ldmVyIHNlbnQgdG8gYW55IHNlcnZlciBidXQgQW50aHJvcGljKSwgYW5kIGdvLgoKPiBObyBhY2NvdW50cy4gTm8gYmFja2VuZC4gTm8gYW5hbHl0aWNzLiBTZWUgW1BSSVZBQ1kubWRdKFBSSVZBQ1kubWQpLgoKIyMgSG93IGl0IHN0YXlzIG9uLWJyYW5kCgpPbi1icmFuZCBvdXRwdXQgaXMgbm90IGx1Y2sg4oCUIGl0J3MgYSBkZXNpZ25lZCBzeXN0ZW06CgoxLiAqKlRoZSBicmFuZCB2b2ljZSBpcyBlbmNvZGVkLCBub3QgcmVtZW1iZXJlZC4qKiBUb25lLCB2b2NhYnVsYXJ5LCBhbmQgcnVsZXMgbGl2ZSBpbiBbYGRvY3MvZGVzaWduLXN5c3RlbS5tZGBdKGRvY3MvZGVzaWduLXN5c3RlbS5tZCkgYXMgdGhlIHNpbmdsZSBzb3VyY2Ugb2YgdHJ1dGguCjIuICoqVGhlIEFJIHNraWxsIGVuZm9yY2VzIGl0LioqIFtgYWktc2tpbGxzL3BsYXRmb3JtLWFkYXB0YXRpb24tc2tpbGwubWRgXShhaS1za2lsbHMvcGxhdGZvcm0tYWRhcHRhdGlvbi1za2lsbC5tZCkgaXMgYSBzdHJ1Y3R1cmVkIGluc3RydWN0aW9uIHNldCB3aXRoIGV4cGxpY2l0IGNvbnN0cmFpbnRzLCBleGFtcGxlcywgYW5kIGd1YXJkcmFpbHMg4oCUIHRoZSBzYW1lIGRpc2NpcGxpbmUgeW91J2QgYXBwbHkgdG8gYSBjb21wb25lbnQgbGlicmFyeSwgYXBwbGllZCB0byBsYW5ndWFnZS4KMy4gKipBZGFwdGF0aW9uIGlzIGJvdW5kZWQuKiogVGhlIHRvb2wgb25seSBmbGV4ZXMgd2hhdCBzaG91bGQgZmxleCAocGxhdGZvcm0gZm9ybWF0KTsgZXZlcnl0aGluZyB0aGUgYnJhbmQgbXVzdCBwcm90ZWN0IHN0YXlzIGZpeGVkLgo0LiAqKkFueW9uZSBjYW4gc2VsZi1zZXJ2ZS4qKiBOb24tZGVzaWduZXJzIHByb2R1Y2Ugb24tYnJhbmQgd29yayBiZWNhdXNlIHRoZSBkZXNpZ24gc3lzdGVtIGlzIGRvaW5nIHRoZSB3b3JrIGZvciB0aGVtIOKAlCBpbnZpc2libHkuCgotLS0KCiMjIFdoeSB0aGlzIGV4aXN0cyAocG9ydGZvbGlvIG5vdGUpCgpUaGlzIHJlcG8gaXMgcGFydCBvZiBhIHNtYWxsIHN1aXRlIG9mIHRvb2xzIGV4cGxvcmluZyBvbmUgaWRlYTogKip0aGUgYmVzdCBkZXNpZ24gc3lzdGVtcyBhcmUgaW5jcmVhc2luZ2x5IGludmlzaWJsZSDigJQgQUkgc2tpbGxzLCBicmFuZC1lbmNvZGVkIHRvb2xzLCBhbmQgbWFya2Rvd24gcmVmZXJlbmNlIGZyYW1ld29ya3MgdGhhdCBsZXQgYW55b25lIHByb2R1Y2Ugb24tYnJhbmQgd29yay4qKiBEZW1vbnN0cmF0ZXMgZW5jb2RpbmcgcGxhdGZvcm0gKyBicmFuZCBydWxlcyBhcyBhIHJlZmVyZW5jZSBmcmFtZXdvcmsgYW5kIHNoaXBwaW5nIGl0IGFzIGEgc2VsZi1zZXJ2ZSB0b29sIOKAlCB0aGUgaW52aXNpYmxlIGRlc2lnbiBzeXN0ZW0gdGhhdCBsZXRzIGFueW9uZSBwcm9kdWNlIG9uLWJyYW5kLCBjaGFubmVsLW5hdGl2ZSB3b3JrLgoKKipSZWxhdGVkIHRvb2xzIGluIHRoZSBzdWl0ZToqKgotIFtNZXNzYWdlIFZhcmlhbnQgRW5naW5lXShodHRwczovL2dpdGh1Yi5jb20vRWRpdG9yaWFsT1MvbWVzc2FnZS12YXJpYW50LWVuZ2luZSkg4oCUIG9uZSBtZXNzYWdlLCBldmVyeSBhdWRpZW5jZSwgb24tYnJhbmQuCi0gW0JyaWVmIEVuZ2luZV0oaHR0cHM6Ly9naXRodWIuY29tL0VkaXRvcmlhbE9TL2JyaWVmLWVuZ2luZSkg4oCUIHNjYXR0ZXJlZCBpbnB1dHMg4oaSIHN0cnVjdHVyZWQsIG9uLWJyYW5kIGJyaWVmLgotIFtTb2NpYWwgQ29weSBNdWx0aXBsaWVyXShodHRwczovL2dpdGh1Yi5jb20vRWRpdG9yaWFsT1Mvc29jaWFsLWNvcHktbXVsdGlwbGllcikg4oCUIG9uZSBtZXNzYWdlLCBwbGF0Zm9ybS1wZXJmZWN0IGV2ZXJ5d2hlcmUuCgojIyBMaWNlbnNlCgpNSVQg4oCUIHNlZSBbTElDRU5TRV0oTElDRU5TRSkuCg==
+# Social Copy Multiplier
+
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![status](https://img.shields.io/badge/status-portfolio--ready-brightgreen)
+![type](https://img.shields.io/badge/type-AI%20skill-8A2BE2)
+![design tool](https://img.shields.io/badge/design-brand%20system-ff69b4)
+![platform](https://img.shields.io/badge/platform-Chrome%20MV3-orange)
+![license](https://img.shields.io/badge/license-MIT-lightgrey)
+
+> **One message, platform-perfect everywhere.**
+
+Social Copy Multiplier takes one core message and, in a single pass, generates platform-native variants for every channel at once — each obeying that platform's constraints while staying inside a brand-voice configuration you control. The brand voice is defined once; the platform rules are encoded as a reference framework; anyone can produce a full, on-brand social set from a side panel in seconds.
+
+**The design/brand problem it solves:** Every social platform has its own dialect — length, tone, hashtag etiquette, emoji density, CTA style. Teams either post the same copy everywhere (and it reads wrong on three of four platforms) or hand-tune each one (and the brand voice drifts, and it takes an hour). Consistency and platform-nativeness feel like a tradeoff.
+
+---
+
+## 30-second tour
+
+If you only have half a minute, look here:
+
+- **[`ai-skills/platform-adaptation-skill.md`](ai-skills/platform-adaptation-skill.md)** — the AI skill itself: a structured, markdown instruction set that turns brand rules into reliably on-brand output. *This is the heart of the project.*
+- **[`docs/design-system.md`](docs/design-system.md)** — the brand system as source of truth: voice, tone, type/color/layout and content rules the tool enforces.
+- **[`docs/PRD.md`](docs/PRD.md)** — the product thinking: problem, users, goals, and adoption metrics.
+- **[`docs/architecture.md`](docs/architecture.md)** — how it works: UI surface, the AI/model layer, and the prompt layer that binds them.
+- **[`extension/`](extension/) + demo** — the working Chrome side-panel extension (Manifest V3). *(Demo GIF: see `docs/demo.gif` once added.)*
+
+---
+
+## Who it's for
+
+Brand & design owners (who set the voice and platform rules) and non-designers — social managers, founders, marketers — who need channel-native copy fast without off-brand drift.
+
+## How it works (in one paragraph)
+
+Social Copy Multiplier is a Chrome side-panel extension (Manifest V3). The brand owner defines the voice and rules **once** as a markdown reference framework (see [`docs/design-system.md`](docs/design-system.md) and [`ai-skills/platform-adaptation-skill.md`](ai-skills/platform-adaptation-skill.md)). At runtime, the tool composes those rules with the user's input into a structured prompt and sends it to Anthropic Claude (bring-your-own API key), all platforms generated in parallel via Promise.all. The result is on-brand output that a non-designer can produce without ever seeing the underlying system.
+
+- **Input:** One core message and a brand-voice configuration (tone, banned words, emoji policy, hashtag strategy).
+- **Output:** Simultaneous platform-native variants (Pinterest, Instagram, X/Twitter, LinkedIn) generated in parallel, each within platform constraints and brand voice.
+
+## Install & use
+
+1. Clone this repo.
+2. In Chrome, open `chrome://extensions`, enable **Developer mode**, and click **Load unpacked**.
+3. Select the [`extension/`](extension/) folder.
+4. Open the extension, add your Anthropic API key (stored locally, never sent to any server but Anthropic), and go.
+
+> No accounts. No backend. No analytics. See [PRIVACY.md](PRIVACY.md).
+
+## How it stays on-brand
+
+On-brand output is not luck — it's a designed system:
+
+1. **The brand voice is encoded, not remembered.** Tone, vocabulary, and rules live in [`docs/design-system.md`](docs/design-system.md) as the single source of truth.
+2. **The AI skill enforces it.** [`ai-skills/platform-adaptation-skill.md`](ai-skills/platform-adaptation-skill.md) is a structured instruction set with explicit constraints, examples, and guardrails — the same discipline you'd apply to a component library, applied to language.
+3. **Adaptation is bounded.** The tool only flexes what should flex (platform format); everything the brand must protect stays fixed.
+4. **Anyone can self-serve.** Non-designers produce on-brand work because the design system is doing the work for them — invisibly.
+
+---
+
+## Why this exists (portfolio note)
+
+This repo is part of a small suite of tools exploring one idea: **the best design systems are increasingly invisible — AI skills, brand-encoded tools, and markdown reference frameworks that let anyone produce on-brand work.** Demonstrates encoding platform + brand rules as a reference framework and shipping it as a self-serve tool — the invisible design system that lets anyone produce on-brand, channel-native work.
+
+**Related tools in the suite:**
+- [Message Variant Engine](https://github.com/EditorialOS/message-variant-engine) — one message, every audience, on-brand.
+- [Brief Engine](https://github.com/EditorialOS/brief-engine) — scattered inputs → structured, on-brand brief.
+- [Social Copy Multiplier](https://github.com/EditorialOS/social-copy-multiplier) — one message, platform-perfect everywhere.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
