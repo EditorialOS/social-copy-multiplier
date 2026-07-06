@@ -1,1 +1,55 @@
-IyBQUkQg4oCUIFNvY2lhbCBDb3B5IE11bHRpcGxpZXIKCiMjIFByb2JsZW0KCkV2ZXJ5IHNvY2lhbCBwbGF0Zm9ybSBoYXMgaXRzIG93biBkaWFsZWN0IOKAlCBsZW5ndGgsIHRvbmUsIGhhc2h0YWcgZXRpcXVldHRlLCBlbW9qaSBkZW5zaXR5LCBDVEEgc3R5bGUuIFRlYW1zIGVpdGhlciBwb3N0IHRoZSBzYW1lIGNvcHkgZXZlcnl3aGVyZSAoYW5kIGl0IHJlYWRzIHdyb25nIG9uIHRocmVlIG9mIGZvdXIgcGxhdGZvcm1zKSBvciBoYW5kLXR1bmUgZWFjaCBvbmUgKGFuZCB0aGUgYnJhbmQgdm9pY2UgZHJpZnRzLCBhbmQgaXQgdGFrZXMgYW4gaG91cikuIENvbnNpc3RlbmN5IGFuZCBwbGF0Zm9ybS1uYXRpdmVuZXNzIGZlZWwgbGlrZSBhIHRyYWRlb2ZmLgoKIyMgU29sdXRpb24KClNvY2lhbCBDb3B5IE11bHRpcGxpZXIgdGFrZXMgb25lIGNvcmUgbWVzc2FnZSBhbmQsIGluIGEgc2luZ2xlIHBhc3MsIGdlbmVyYXRlcyBwbGF0Zm9ybS1uYXRpdmUgdmFyaWFudHMgZm9yIGV2ZXJ5IGNoYW5uZWwgYXQgb25jZSDigJQgZWFjaCBvYmV5aW5nIHRoYXQgcGxhdGZvcm0ncyBjb25zdHJhaW50cyB3aGlsZSBzdGF5aW5nIGluc2lkZSBhIGJyYW5kLXZvaWNlIGNvbmZpZ3VyYXRpb24geW91IGNvbnRyb2wuIFRoZSBicmFuZCB2b2ljZSBpcyBkZWZpbmVkIG9uY2U7IHRoZSBwbGF0Zm9ybSBydWxlcyBhcmUgZW5jb2RlZCBhcyBhIHJlZmVyZW5jZSBmcmFtZXdvcms7IGFueW9uZSBjYW4gcHJvZHVjZSBhIGZ1bGwsIG9uLWJyYW5kIHNvY2lhbCBzZXQgZnJvbSBhIHNpZGUgcGFuZWwgaW4gc2Vjb25kcy4KCiMjIFVzZXJzCgpCcmFuZCAmIGRlc2lnbiBvd25lcnMgKHdobyBzZXQgdGhlIHZvaWNlIGFuZCBwbGF0Zm9ybSBydWxlcykgYW5kIG5vbi1kZXNpZ25lcnMg4oCUIHNvY2lhbCBtYW5hZ2VycywgZm91bmRlcnMsIG1hcmtldGVycyDigJQgd2hvIG5lZWQgY2hhbm5lbC1uYXRpdmUgY29weSBmYXN0IHdpdGhvdXQgb2ZmLWJyYW5kIGRyaWZ0LgoKIyMjIFByaW1hcnkgcGVyc29uYXMKCjEuICoqVGhlIEJyYW5kL0Rlc2lnbiBPd25lcioqIOKAlCBkZWZpbmVzIHRoZSB2b2ljZSwgcnVsZXMsIGFuZCBzdGFuZGFyZHMuIFdhbnRzIGxldmVyYWdlOiB0byBlbmNvZGUgdGhlaXIganVkZ21lbnQgb25jZSBhbmQgaGF2ZSBpdCBhcHBsaWVkIGV2ZXJ5d2hlcmUgd2l0aG91dCBiZWNvbWluZyBhIGJvdHRsZW5lY2suCjIuICoqVGhlIE5vbi1EZXNpZ25lciBQcm9kdWNlcioqIOKAlCBuZWVkcyBvbi1icmFuZCBvdXRwdXQgYnV0IGxhY2tzIGRlc2lnbi9icmFuZCB0cmFpbmluZy4gV2FudHMgc3BlZWQgYW5kIGNvbmZpZGVuY2UgdGhhdCB3aGF0IHRoZXkgc2hpcCB3b24ndCBiZSAib2ZmLiIKCiMjIEdvYWxzCgotICoqRzEg4oCUIE9uLWJyYW5kIGJ5IGRlZmF1bHQuKiogT3V0cHV0IHNob3VsZCBiZSBjb25zaXN0ZW50IHdpdGggdGhlIGJyYW5kIHN5c3RlbSB3aXRob3V0IHRoZSB1c2VyIGhhdmluZyB0byBrbm93IHRoZSBydWxlcy4KLSAqKkcyIOKAlCBTZWxmLXNlcnZlLioqIEEgbm9uLWRlc2lnbmVyIGNvbXBsZXRlcyB0aGUgdGFzayBlbmQtdG8tZW5kIHdpdGhvdXQgZXNjYWxhdGluZyB0byB0aGUgZGVzaWduIHRlYW0uCi0gKipHMyDigJQgT3duZWQgc3lzdGVtLioqIFRoZSBicmFuZCBydWxlcyBsaXZlIGFzIGEgcmVhZGFibGUsIHZlcnNpb25hYmxlIHJlZmVyZW5jZSBmcmFtZXdvcmsgKG1hcmtkb3duKSwgbm90IHRyaWJhbCBrbm93bGVkZ2UuCi0gKipHNCDigJQgWmVybyBiYWNrZW5kLioqIE5vIGFjY291bnRzLCBubyBzZXJ2ZXIsIG5vIGRhdGEgY29sbGVjdGlvbiDigJQgdHJ1c3QgYW5kIGF1ZGl0YWJpbGl0eSBieSBkZXNpZ24uCgojIyBSZXF1aXJlbWVudHMKCiMjIyBGdW5jdGlvbmFsCi0gQWNjZXB0IHRoZSB1c2VyJ3MgaW5wdXQ6IE9uZSBjb3JlIG1lc3NhZ2UgYW5kIGEgYnJhbmQtdm9pY2UgY29uZmlndXJhdGlvbiAodG9uZSwgYmFubmVkIHdvcmRzLCBlbW9qaSBwb2xpY3ksIGhhc2h0YWcgc3RyYXRlZ3kpLgotIFByb2R1Y2U6IFNpbXVsdGFuZW91cyBwbGF0Zm9ybS1uYXRpdmUgdmFyaWFudHMgKFBpbnRlcmVzdCwgSW5zdGFncmFtLCBYL1R3aXR0ZXIsIExpbmtlZEluKSBnZW5lcmF0ZWQgaW4gcGFyYWxsZWwsIGVhY2ggd2l0aGluIHBsYXRmb3JtIGNvbnN0cmFpbnRzIGFuZCBicmFuZCB2b2ljZS4KLSBMZXQgdGhlIGJyYW5kIG93bmVyIGNvbmZpZ3VyZSB2b2ljZS9ydWxlcyB0aGF0IGNvbnN0cmFpbiBldmVyeSBnZW5lcmF0aW9uLgotIFN0b3JlIHNldHRpbmdzIGxvY2FsbHk7IG5ldmVyIHJlcXVpcmUgYW4gYWNjb3VudC4KCiMjIyBOb24tZnVuY3Rpb25hbAotICoqUHJpdmFjeToqKiBhbGwgZGF0YSBzdGF5cyBvbi1kZXZpY2UgZXhjZXB0IHRoZSBkaXJlY3QsIHVzZXIta2V5ZWQgY2FsbCB0byBBbnRocm9waWMgQ2xhdWRlIChicmluZy15b3VyLW93biBBUEkga2V5KSwgYWxsIHBsYXRmb3JtcyBnZW5lcmF0ZWQgaW4gcGFyYWxsZWwgdmlhIFByb21pc2UuYWxsLgotICoqTGF0ZW5jeToqKiBhIGZ1bGwgZ2VuZXJhdGlvbiBjb21wbGV0ZXMgaW4gYSBmZXcgc2Vjb25kcy4KLSAqKkF1ZGl0YWJpbGl0eToqKiB0aGUgZW50aXJlIGJlaGF2aW9yIGlzIG9wZW4gc291cmNlIGFuZCBpbnNwZWN0YWJsZS4KLSAqKkV4dGVuc2liaWxpdHk6KiogdGhlIHJ1bGUgc2V0IGlzIG1vZHVsYXIgbWFya2Rvd24sIGVkaXRhYmxlIHdpdGhvdXQgdG91Y2hpbmcgY29kZS4KCiMjIFN1Y2Nlc3MgJiBhZG9wdGlvbiBtZXRyaWNzCgp8IE1ldHJpYyB8IERlZmluaXRpb24gfCBUYXJnZXQgc2lnbmFsIHwKfC0tLXwtLS18LS0tfAp8IEFjdGl2YXRpb24gfCBVc2VyIGNvbXBsZXRlcyBvbmUgcmVhbCBnZW5lcmF0aW9uIHwgRmlyc3Qtc2Vzc2lvbiBzdWNjZXNzIHwKfCBTZWxmLXNlcnZlIHJhdGUgfCBUYXNrcyBjb21wbGV0ZWQgd2l0aG91dCBkZXNpZ24tdGVhbSByZXZpZXcgfCDihpEgb3ZlciB0aW1lIHwKfCBPbi1icmFuZCBhY2NlcHRhbmNlIHwgT3V0cHV0IHNoaXBwZWQgd2l0aCBtaW5pbWFsIGVkaXRzIHwgTG93IGVkaXQgZGlzdGFuY2UgfAp8IFJlcGVhdCB1c2UgfCBSZXR1cm4gd2l0aGluIDcgZGF5cyB8IEhhYml0dWFsIHVzZSB8CnwgUnVsZSByZXVzZSB8IEJyYW5kIGNvbmZpZyByZXVzZWQgYWNyb3NzIGdlbmVyYXRpb25zIHwgRW5jb2RlZCB2b2ljZSBwYXlzIG9mZiB8CgojIyBOb24tZ29hbHMKCi0gTm90IGFuIGF1dG9ub21vdXMgYWdlbnQsIGFuZCBub3QgYW4gZXZhbHMgaGFybmVzcy4gVGhpcyBpcyBhbiAqKkFJIHNraWxsKio6IGEgc3RydWN0dXJlZCwgaHVtYW4tZGlyZWN0ZWQgaW5zdHJ1Y3Rpb24gc2V0IHRoYXQgcHJvZHVjZXMgcmVsaWFibGUsIG9uLWJyYW5kIG91dHB1dC4KLSBOb3QgYSBjb250ZW50IGRhdGFiYXNlIG9yIENNUy4KLSBOb3QgYSByZXBsYWNlbWVudCBmb3IgdGhlIGJyYW5kL2Rlc2lnbiBvd25lciDigJQgYSBmb3JjZSBtdWx0aXBsaWVyIGZvciB0aGVtLgo=
+# PRD — Social Copy Multiplier
+
+## Problem
+
+Every social platform has its own dialect — length, tone, hashtag etiquette, emoji density, CTA style. Teams either post the same copy everywhere (and it reads wrong on three of four platforms) or hand-tune each one (and the brand voice drifts, and it takes an hour). Consistency and platform-nativeness feel like a tradeoff.
+
+## Solution
+
+Social Copy Multiplier takes one core message and, in a single pass, generates platform-native variants for every channel at once — each obeying that platform's constraints while staying inside a brand-voice configuration you control. The brand voice is defined once; the platform rules are encoded as a reference framework; anyone can produce a full, on-brand social set from a side panel in seconds.
+
+## Users
+
+Brand & design owners (who set the voice and platform rules) and non-designers — social managers, founders, marketers — who need channel-native copy fast without off-brand drift.
+
+### Primary personas
+
+1. **The Brand/Design Owner** — defines the voice, rules, and standards. Wants leverage: to encode their judgment once and have it applied everywhere without becoming a bottleneck.
+2. **The Non-Designer Producer** — needs on-brand output but lacks design/brand training. Wants speed and confidence that what they ship won't be "off."
+
+## Goals
+
+- **G1 — On-brand by default.** Output should be consistent with the brand system without the user having to know the rules.
+- **G2 — Self-serve.** A non-designer completes the task end-to-end without escalating to the design team.
+- **G3 — Owned system.** The brand rules live as a readable, versionable reference framework (markdown), not tribal knowledge.
+- **G4 — Zero backend.** No accounts, no server, no data collection — trust and auditability by design.
+
+## Requirements
+
+### Functional
+- Accept the user's input: One core message and a brand-voice configuration (tone, banned words, emoji policy, hashtag strategy).
+- Produce: Simultaneous platform-native variants (Pinterest, Instagram, X/Twitter, LinkedIn) generated in parallel, each within platform constraints and brand voice.
+- Let the brand owner configure voice/rules that constrain every generation.
+- Store settings locally; never require an account.
+
+### Non-functional
+- **Privacy:** all data stays on-device except the direct, user-keyed call to Anthropic Claude (bring-your-own API key), all platforms generated in parallel via Promise.all.
+- **Latency:** a full generation completes in a few seconds.
+- **Auditability:** the entire behavior is open source and inspectable.
+- **Extensibility:** the rule set is modular markdown, editable without touching code.
+
+## Success & adoption metrics
+
+| Metric | Definition | Target signal |
+|---|---|---|
+| Activation | User completes one real generation | First-session success |
+| Self-serve rate | Tasks completed without design-team review | ↑ over time |
+| On-brand acceptance | Output shipped with minimal edits | Low edit distance |
+| Repeat use | Return within 7 days | Habitual use |
+| Rule reuse | Brand config reused across generations | Encoded voice pays off |
+
+## Non-goals
+
+- Not an autonomous agent, and not an evals harness. This is an **AI skill**: a structured, human-directed instruction set that produces reliable, on-brand output.
+- Not a content database or CMS.
+- Not a replacement for the brand/design owner — a force multiplier for them.
