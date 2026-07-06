@@ -1,1 +1,62 @@
-IyBBcmNoaXRlY3R1cmUg4oCUIFNvY2lhbCBDb3B5IE11bHRpcGxpZXIKCiMjIE92ZXJ2aWV3CgpTb2NpYWwgQ29weSBNdWx0aXBsaWVyIGlzIGEgQ2hyb21lIHNpZGUtcGFuZWwgZXh0ZW5zaW9uIChNYW5pZmVzdCBWMykuIEl0IGhhcyB0aHJlZSBsYXllcnM6IGEgKipmcm9udC1lbmQgc3VyZmFjZSoqLCBhbiAqKkFJL21vZGVsIGxheWVyKiosIGFuZCBhICoqcHJvbXB0IGxheWVyKiogdGhhdCBiaW5kcyB0aGUgYnJhbmQgc3lzdGVtIHRvIHVzZXIgaW5wdXQuCgpgYGAK4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCuKUgiAgRnJvbnQtZW5kIHN1cmZhY2UgKENocm9tZSBzaWRlLXBhbmVsIGV4dGVuc2lvbikgICDilIIK4pSCICDigKIgY29sbGVjdHMgdXNlciBpbnB1dCAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgIOKAoiBzdG9yZXMgc2V0dGluZ3MgbG9jYWxseSAoY2hyb21lLnN0b3JhZ2UpICAg4pSCCuKUlOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUrOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUmAogICAgICAgICAgICAgICAg4pSCICBjb21wb3NlcwogICAgICAgICAgICAgICAg4pa8CuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgIFByb21wdCBsYXllciAodGhlIEFJIHNraWxsKSAgICAgICAgICAgICAgICAg4pSCCuKUgiAg4oCiIGRlc2lnbi1zeXN0ZW0ubWQgcnVsZXMgKyBhaS1za2lsbHMvKi5tZCAgICDilIIK4pSCICDigKIgdXNlciBpbnB1dCArIGxvY2tlZCBzZWN0aW9ucyAgICAgICAgICAgICAgIOKUggrilIIgIOKAoiBhc3NlbWJsZXMgYSBzdHJ1Y3R1cmVkIGluc3RydWN0aW9uIHNldCAgICAg4pSCCuKUlOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUrOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUmAogICAgICAgICAgICAgICAg4pSCICByZXF1ZXN0ICh1c2VyJ3Mgb3duIEFQSSBrZXkpCiAgICAgICAgICAgICAgICDilrwK4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCuKUgiAgQUkvbW9kZWwgbGF5ZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIK4pSCICDigKIgQW50aHJvcGljIENsYXVkZSAoYnJpbmcteW91ci1vd24gQVBJIGtleSksIGFsbCBwbGF0Zm9ybXMgZ2VuZXJhdGVkIGluIHBhcmFsbGVsIHZpYSBQcm9taXNlLmFsbArilIIgIOKAoiBjYWxsZWQgZGlyZWN0bHkgZnJvbSB0aGUgYnJvd3NlciAgICAgICAgICAg4pSCCuKUlOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUmApgYGAKCiMjIDEuIEZyb250LWVuZCBzdXJmYWNlCgotIEJ1aWx0IG9uIENocm9tZSAqKk1hbmlmZXN0IFYzKiouCi0gQSBzaWRlIHBhbmVsIChgY2hyb21lLnNpZGVQYW5lbGApIGtlZXBzIHRoZSB0b29sIGFsb25nc2lkZSB0aGUgcGFnZSB5b3UncmUgd29ya2luZyBvbi4KLSBTZXR0aW5ncywgYnJhbmQgY29uZmlnLCBhbmQgdGhlIEFQSSBrZXkgYXJlIHBlcnNpc3RlZCB3aXRoIGBjaHJvbWUuc3RvcmFnZWAg4oCUIGxvY2FsIG9ubHkuCgojIyAyLiBQcm9tcHQgbGF5ZXIgKHRoZSBBSSBza2lsbCkKClRoaXMgaXMgdGhlIGRlc2lnbi1jcml0aWNhbCBsYXllci4gSXQ6CgotIExvYWRzIHRoZSBicmFuZCBydWxlcyBmcm9tIHRoZSBkZXNpZ24gc3lzdGVtIGFzIGEgcmVmZXJlbmNlIGZyYW1ld29yay4KLSBNZXJnZXMgdGhlbSB3aXRoIHRoZSB1c2VyJ3MgaW5wdXQgYW5kIGFueSBsb2NrZWQgY29udGVudC4KLSBQcm9kdWNlcyBhICoqc3RydWN0dXJlZCBpbnN0cnVjdGlvbiBzZXQqKiB3aXRoIGV4cGxpY2l0IGNvbnN0cmFpbnRzLCBmb3JtYXQgc3BlY3MsIGFuZCBleGFtcGxlcyDigJQgc2VlIFtgLi4vYWktc2tpbGxzL3BsYXRmb3JtLWFkYXB0YXRpb24tc2tpbGwubWRgXSguLi9haS1za2lsbHMvcGxhdGZvcm0tYWRhcHRhdGlvbi1za2lsbC5tZCkuCi0gQmVjYXVzZSB0aGUgcnVsZXMgYXJlIG1hcmtkb3duLCB0aGV5IGFyZSBlZGl0ZWQgd2l0aG91dCB0b3VjaGluZyBjb2RlLgoKIyMgMy4gQUkvbW9kZWwgbGF5ZXIKCi0gQW50aHJvcGljIENsYXVkZSAoYnJpbmcteW91ci1vd24gQVBJIGtleSksIGFsbCBwbGF0Zm9ybXMgZ2VuZXJhdGVkIGluIHBhcmFsbGVsIHZpYSBQcm9taXNlLmFsbC4KLSBUaGUgcmVxdWVzdCBnb2VzICoqZGlyZWN0bHkgZnJvbSB0aGUgYnJvd3NlcioqIHRvIGBhcGkuYW50aHJvcGljLmNvbWAgdXNpbmcgdGhlIHVzZXIncyBvd24ga2V5IOKAlCB0aGVyZSBpcyBubyBpbnRlcm1lZGlhcnkgc2VydmVyLgotIEFsbCBwbGF0Zm9ybSB2YXJpYW50cyBhcmUgZ2VuZXJhdGVkICoqaW4gcGFyYWxsZWwqKiAoYFByb21pc2UuYWxsYCkgZm9yIHNwZWVkLgoKIyMgRGF0YSBmbG93ICYgcHJpdmFjeQoKMS4gVXNlciBlbnRlcnMgaW5wdXQgaW4gdGhlIGV4dGVuc2lvbi4KMi4gVGhlIHByb21wdCBsYXllciBhc3NlbWJsZXMgdGhlIGluc3RydWN0aW9uIHNldCBsb2NhbGx5LgozLiBBIHNpbmdsZSBhdXRoZW50aWNhdGVkIHJlcXVlc3QgZ29lcyB0byB0aGUgbW9kZWwgcHJvdmlkZXIuCjQuIFRoZSByZXNwb25zZSBpcyByZW5kZXJlZCBpbiB0aGUgVUkuCgpObyBkYXRhIHRvdWNoZXMgYW55IHNlcnZlciBvcGVyYXRlZCBieSB0aGlzIHByb2plY3Qg4oCUIGJlY2F1c2UgdGhlcmUgaXNuJ3Qgb25lLiBTZWUgW2AuLi9QUklWQUNZLm1kYF0oLi4vUFJJVkFDWS5tZCkuCgojIyBXaHkgdGhpcyBzaGFwZQoKVGhlIGFyY2hpdGVjdHVyZSBpcyBkZWxpYmVyYXRlbHkgdGhpbiBzbyB0aGUgKipkZXNpZ24gc3lzdGVtIGFuZCB0aGUgQUkgc2tpbGwqKiDigJQgbm90IHRoZSBwbHVtYmluZyDigJQgYXJlIHRoZSBzdWJzdGFuY2UuIEl0J3MgYSBkZW1vbnN0cmF0aW9uIHRoYXQgYSB3ZWxsLXN0cnVjdHVyZWQgbWFya2Rvd24gcmVmZXJlbmNlIGZyYW1ld29yayBwbHVzIGEgc21hbGwsIGhvbmVzdCBzdXJmYWNlIGlzIGVub3VnaCB0byBtYWtlIG9uLWJyYW5kIHByb2R1Y3Rpb24gc2VsZi1zZXJ2ZS4K
+# Architecture — Social Copy Multiplier
+
+## Overview
+
+Social Copy Multiplier is a Chrome side-panel extension (Manifest V3). It has three layers: a **front-end surface**, an **AI/model layer**, and a **prompt layer** that binds the brand system to user input.
+
+```
+┌─────────────────────────────────────────────┐
+│  Front-end surface (Chrome side-panel extension)   │
+│  • collects user input                        │
+│  • stores settings locally (chrome.storage)   │
+└───────────────┬───────────────────────────────┘
+                │  composes
+                ▼
+┌─────────────────────────────────────────────┐
+│  Prompt layer (the AI skill)                 │
+│  • design-system.md rules + ai-skills/*.md    │
+│  • user input + locked sections               │
+│  • assembles a structured instruction set     │
+└───────────────┬───────────────────────────────┘
+                │  request (user's own API key)
+                ▼
+┌─────────────────────────────────────────────┐
+│  AI/model layer                              │
+│  • Anthropic Claude (bring-your-own API key), all platforms generated in parallel via Promise.all
+│  • called directly from the browser           │
+└─────────────────────────────────────────────┘
+```
+
+## 1. Front-end surface
+
+- Built on Chrome **Manifest V3**.
+- A side panel (`chrome.sidePanel`) keeps the tool alongside the page you're working on.
+- Settings, brand config, and the API key are persisted with `chrome.storage` — local only.
+
+## 2. Prompt layer (the AI skill)
+
+This is the design-critical layer. It:
+
+- Loads the brand rules from the design system as a reference framework.
+- Merges them with the user's input and any locked content.
+- Produces a **structured instruction set** with explicit constraints, format specs, and examples — see [`../ai-skills/platform-adaptation-skill.md`](../ai-skills/platform-adaptation-skill.md).
+- Because the rules are markdown, they are edited without touching code.
+
+## 3. AI/model layer
+
+- Anthropic Claude (bring-your-own API key), all platforms generated in parallel via Promise.all.
+- The request goes **directly from the browser** to `api.anthropic.com` using the user's own key — there is no intermediary server.
+- All platform variants are generated **in parallel** (`Promise.all`) for speed.
+
+## Data flow & privacy
+
+1. User enters input in the extension.
+2. The prompt layer assembles the instruction set locally.
+3. A single authenticated request goes to the model provider.
+4. The response is rendered in the UI.
+
+No data touches any server operated by this project — because there isn't one. See [`../PRIVACY.md`](../PRIVACY.md).
+
+## Why this shape
+
+The architecture is deliberately thin so the **design system and the AI skill** — not the plumbing — are the substance. It's a demonstration that a well-structured markdown reference framework plus a small, honest surface is enough to make on-brand production self-serve.
